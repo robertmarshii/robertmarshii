@@ -5,7 +5,7 @@
 - 💬 Talk to me about cryptocurrency and innovation
 - 📫 How to reach me: linkedin.com/in/robertmarshii
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I love build computers!
+- ⚡ Fun fact: I love building computers!
 
 https://user-images.githubusercontent.com/23078823/131915750-9672e63e-4279-4e42-8c84-2ee832452308.mp4
 
