@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Asset and Integrity Management software for Add Energy 
-- 🌱 I’m currently learning about cryptocurrency regulation for my MBA thesis
+- 🔭 I’m currently working on end-point assessment software for TQUK 
+- 🌱 I have just completed my MBA thesis focused on cryptocurrency regulation
 - 💬 Talk to me about cryptocurrency and innovation
 - 📫 How to reach me: linkedin.com/in/robertmarshii
 - 😄 Pronouns: (He/Him)
